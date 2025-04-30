@@ -11,7 +11,7 @@ This project implements a reliable and safe start-up controller for an Electric 
     - Brake must be pressed
     - Vehicle must be in neutral
     - Charger must be disconnected
-* TSAL (Traction System Active Light)} and \textbf{SSR (Solid State Relay)} control
+* TSAL (Traction System Active Light) and SSR (Solid State Relay) control
 * Serial monitoring of live voltage values for sensors and startup status
 * Auto-reset on safety condition failure
 
@@ -39,5 +39,11 @@ Brake: 2.18 | Chg: 0.10 | Neutral: 2.40 | Startup: 1
 # PCB Layout and Schematic:
 ![WhatsApp Image 2025-04-16 at 21 18 50_f12887a6](https://github.com/user-attachments/assets/b28e34a6-12a6-4d0f-8eff-850f68d0d19f)
 ![WhatsApp Image 2025-04-16 at 21 18 50_e17aa9b4](https://github.com/user-attachments/assets/5a92abe0-3ed9-41ef-961f-9eb27a66a90c)
+![IMG-20250430-WA0191](https://github.com/user-attachments/assets/227b423e-303f-4517-901c-c7518735768b)
+![IMG-20250430-WA0192](https://github.com/user-attachments/assets/772abccb-933b-4d35-8d81-2c3f5c29c17e)
+
+# Circuit For Simulation:
+![IMG-20250430-WA0194](https://github.com/user-attachments/assets/7ea224c3-2847-4879-9ae9-d4cd2fd0f9a5)
+
 
 
